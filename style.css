@@ -1,0 +1,51 @@
+.sitename{
+    margin:auto auto;
+    background-color: rgb(4, 4, 95);
+    -webkit-text-fill-color: white;
+    width: 100%;
+    height: 80px;
+    
+}
+li{display: inline;
+    padding: 30px;}
+#sitemenu{
+    margin: 20px auto;
+}
+header{
+    background-image: url(./image/back\ image.jpeg);
+    background-size: cover;
+    height: 300px;
+}
+.first{
+    -webkit-text-fill-color: white;
+    text-align: center;
+    padding:20px;
+}
+.dream{
+    -webkit-text-fill-color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration-style: wavy;
+}
+#tours{
+    padding: 0px;
+}
+.best{
+    text-align: center
+}
+.check{
+    text-align: center
+}
+#images{
+    display: inline;
+}
+#phase{
+    background-image: url(./image/Mystery-of-purple-lights-nature-images.jpg);
+    background-size: cover;
+    -webkit-text-fill-color: white;
+}
+.foot{
+    background-color: rgb(4, 4, 95);
+    text-align: center;
+    -webkit-text-fill-color: white;
+}
